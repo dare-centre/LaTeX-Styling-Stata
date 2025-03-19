@@ -16,4 +16,4 @@ Software Requirements
 - LaTeX packages: metsymb, tikz.<br />
 - Stata.<br />
 
-Reference: Stenborg, T 2024, "Styling Stata graphics with LaTeX" (submitted).
+Reference: Stenborg, T 2024, "Styling Stata graphics with LaTeX", TUGboat, vol. 45, no. 3, pp. 374-375 (public release pending)..
